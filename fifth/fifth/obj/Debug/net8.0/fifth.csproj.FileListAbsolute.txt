@@ -1,0 +1,14 @@
+/home/gr624_choaad/RiderProjects/Lab5/fifth/fifth/bin/Debug/net8.0/fifth
+/home/gr624_choaad/RiderProjects/Lab5/fifth/fifth/bin/Debug/net8.0/fifth.deps.json
+/home/gr624_choaad/RiderProjects/Lab5/fifth/fifth/bin/Debug/net8.0/fifth.runtimeconfig.json
+/home/gr624_choaad/RiderProjects/Lab5/fifth/fifth/bin/Debug/net8.0/fifth.dll
+/home/gr624_choaad/RiderProjects/Lab5/fifth/fifth/bin/Debug/net8.0/fifth.pdb
+/home/gr624_choaad/RiderProjects/Lab5/fifth/fifth/obj/Debug/net8.0/fifth.GeneratedMSBuildEditorConfig.editorconfig
+/home/gr624_choaad/RiderProjects/Lab5/fifth/fifth/obj/Debug/net8.0/fifth.AssemblyInfoInputs.cache
+/home/gr624_choaad/RiderProjects/Lab5/fifth/fifth/obj/Debug/net8.0/fifth.AssemblyInfo.cs
+/home/gr624_choaad/RiderProjects/Lab5/fifth/fifth/obj/Debug/net8.0/fifth.csproj.CoreCompileInputs.cache
+/home/gr624_choaad/RiderProjects/Lab5/fifth/fifth/obj/Debug/net8.0/fifth.dll
+/home/gr624_choaad/RiderProjects/Lab5/fifth/fifth/obj/Debug/net8.0/refint/fifth.dll
+/home/gr624_choaad/RiderProjects/Lab5/fifth/fifth/obj/Debug/net8.0/fifth.pdb
+/home/gr624_choaad/RiderProjects/Lab5/fifth/fifth/obj/Debug/net8.0/fifth.genruntimeconfig.cache
+/home/gr624_choaad/RiderProjects/Lab5/fifth/fifth/obj/Debug/net8.0/ref/fifth.dll

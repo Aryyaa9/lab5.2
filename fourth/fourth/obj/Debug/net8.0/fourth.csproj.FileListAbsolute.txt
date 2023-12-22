@@ -1,0 +1,14 @@
+/home/gr624_choaad/RiderProjects/Lab5/fourth/fourth/bin/Debug/net8.0/fourth
+/home/gr624_choaad/RiderProjects/Lab5/fourth/fourth/bin/Debug/net8.0/fourth.deps.json
+/home/gr624_choaad/RiderProjects/Lab5/fourth/fourth/bin/Debug/net8.0/fourth.runtimeconfig.json
+/home/gr624_choaad/RiderProjects/Lab5/fourth/fourth/bin/Debug/net8.0/fourth.dll
+/home/gr624_choaad/RiderProjects/Lab5/fourth/fourth/bin/Debug/net8.0/fourth.pdb
+/home/gr624_choaad/RiderProjects/Lab5/fourth/fourth/obj/Debug/net8.0/fourth.GeneratedMSBuildEditorConfig.editorconfig
+/home/gr624_choaad/RiderProjects/Lab5/fourth/fourth/obj/Debug/net8.0/fourth.AssemblyInfoInputs.cache
+/home/gr624_choaad/RiderProjects/Lab5/fourth/fourth/obj/Debug/net8.0/fourth.AssemblyInfo.cs
+/home/gr624_choaad/RiderProjects/Lab5/fourth/fourth/obj/Debug/net8.0/fourth.csproj.CoreCompileInputs.cache
+/home/gr624_choaad/RiderProjects/Lab5/fourth/fourth/obj/Debug/net8.0/fourth.dll
+/home/gr624_choaad/RiderProjects/Lab5/fourth/fourth/obj/Debug/net8.0/refint/fourth.dll
+/home/gr624_choaad/RiderProjects/Lab5/fourth/fourth/obj/Debug/net8.0/fourth.pdb
+/home/gr624_choaad/RiderProjects/Lab5/fourth/fourth/obj/Debug/net8.0/fourth.genruntimeconfig.cache
+/home/gr624_choaad/RiderProjects/Lab5/fourth/fourth/obj/Debug/net8.0/ref/fourth.dll
